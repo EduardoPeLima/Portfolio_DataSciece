@@ -12,6 +12,7 @@ No presente, atuo na área de dados dentro de uma empresa com presença em quase
 Além de possuir o certificado Microsoft Power BI Para Data Science da Data Science Academy (DSA) e ser estudante da Escola de Data Science da Sigmoidal, sou formado como técnico em eletrônica pela Escola Técnica Estadual (ETEC) e estou no segundo período de Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP).
 
 **Conhecimentos Técnicos:** Python, Machine Learning, SQL, Power BI, Google Data Studio e JavaScript com ênfase ao Google Apps Script.
+**Idiomas:** Português (Nativo) e Inglês Intermediário. 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com)
