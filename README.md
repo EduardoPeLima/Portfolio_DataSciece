@@ -20,8 +20,6 @@ Além de possuir o certificado Microsoft Power BI Para Data Science da Data Scie
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
 ---
