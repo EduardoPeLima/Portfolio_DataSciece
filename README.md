@@ -20,7 +20,7 @@ Além de possuir o certificado Microsoft Power BI Para Data Science da Data Scie
 
 
 ## Projetos:
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando dados do Airbnb da cidade de Berlim.** https://bit.ly/3IrF4Ne
 
 ---
 
